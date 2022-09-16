@@ -1,0 +1,117 @@
+.div{
+    width: 100vw;
+}
+body{
+    margin: 0;
+}
+
+.header__logo {
+    margin: 0;
+    font-size: 62px;
+    padding-right: 5px;
+}
+
+.container__first-block {
+    background: url("test.jpg") no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 741px;
+}
+
+.header {
+    max-width: 64%;
+    min-width: 64%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: auto;
+    padding: 20px 0;
+
+
+
+}
+.header__wrapper {
+    border-bottom: 1px solid grey;
+}
+.h1-size{
+    font-size: 55px;
+    font-family: Arial;
+    margin: 0;
+    padding-left: 350px;
+    padding-top: 50px;
+}
+
+.span {
+    color: royalblue;
+}
+.header__textblue{
+    color: dodgerblue;
+    font-size: 11px;
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.header__buttons{
+    padding-left: 190px;
+    font-size: 20px;
+}
+.buttons{
+ padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.button__head{
+
+}
+.button{
+    padding: 10px 35px;
+    font-size: 20px;
+    color: blue;
+    border-radius: 8px;
+    border-color: royalblue;
+}
+.mini-text{
+    font-size: 24px;
+    color: royalblue;
+}
+.numbers{
+    font-size: 29px;
+    color: royalblue;
+}
+.mini__text{
+    color: black;
+    font-weight: normal;
+
+
+
+}
+.aboba{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    margin-top: 50px;
+
+
+}
+.img{
+    width: 700px;
+    margin: 0;
+    justify-content: space-between;
+}
+.img-style{
+    width: 120px;
+    border-radius: 100px;
+    margin-left: 400px;
+}
+
+
+
+
+
+
+
